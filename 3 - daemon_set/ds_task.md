@@ -13,4 +13,4 @@ __Task 4, step 7: What happened when you labeled the node and why?__
 kubectl label node minikube nodeType=healt
 node/minikube not labeled
 
-The label was already applyed by the daemonset
+The label was already applyed by the daemonset.

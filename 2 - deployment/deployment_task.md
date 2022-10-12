@@ -16,7 +16,7 @@ kubectl scale --replicas=4 rs/nginx-deployment-779ddf7fd4
 __Task 3, step 2: Why are there two replica sets but only one deployment?__
 
 ```
-It kept the replica set with Verion 1 label
+It kept the replica set with Verion 1 label.
 ```
 
 __Task 3, step 6: What command did you use to roll back the deployment?__

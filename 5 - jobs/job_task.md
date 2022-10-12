@@ -41,6 +41,6 @@ pod/cron-app-27759753-wrjj5   0/1     Completed   0          51s
 pod/cron-app-27759753-zmbzg   0/1     Completed   0          38s
 
 NAME                     SCHEDULE    SUSPEND   ACTIVE   LAST SCHEDULE   AGE
-cronjob.batch/cron-app   * * * * *   False     0        51s             18m
+cronjob.batch/cron-app   * * * * *   False     0        51s             18m.
 
 ```

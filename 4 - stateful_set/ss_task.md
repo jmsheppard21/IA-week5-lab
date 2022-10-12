@@ -14,7 +14,7 @@ __Task 5, step 3: Describe what happened and what you noticed about the pods and
 __Task 5, step 4: Did anything change? Why or why not?__
 
 ```
-Nothing changed as the updateStrategy is set to OnDelete
+Nothing changed as the updateStrategy is set to OnDelete.
 ```
 
 __Task 5, step 6: What happened and why?__
